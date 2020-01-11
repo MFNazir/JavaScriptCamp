@@ -572,7 +572,7 @@ Mark likes to tip 20% of the bill when the bill is less than $100, 10% when the 
 8. Log to the console which family paid the highest tips on average
 GOOD LUCK 😀
 */
-
+/*
 var john = {
     fullName: 'John Smith',
     bills: [124, 48, 268, 180, 42],
@@ -649,3 +649,4 @@ if (john.average > mark.average) {
 } else if (mark.average > john.average) {
     console.log(mark.fullName + '\'s family pays higher tips, with an average of $' + mark.average);
 }
+*/
